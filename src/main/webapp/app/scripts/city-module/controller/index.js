@@ -1,0 +1,1 @@
+angular.module('demo.city-module.controllers', []);

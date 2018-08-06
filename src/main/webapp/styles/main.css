@@ -1,0 +1,21 @@
+/*
+    CSS property should be added here
+*/
+.myclass
+{
+    border:dotted pink 3px;
+}
+span {
+    cursor: pointer;
+}
+
+.selected-class-name {
+    color: red;
+}
+
+.class1{
+    color: red;
+}
+.class2{
+    color: green;
+}

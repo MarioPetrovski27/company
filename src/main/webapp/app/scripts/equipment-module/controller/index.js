@@ -1,0 +1,1 @@
+angular.module('demo.equipment-module.controllers', []);
